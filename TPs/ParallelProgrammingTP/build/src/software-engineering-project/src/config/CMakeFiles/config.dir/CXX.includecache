@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/gext/rached.chaaben/ParallelProgrammingCourse/TPs/ParallelProgrammingTP/src/software-engineering-project/src/config/config.cpp
+config.h
+/gext/rached.chaaben/ParallelProgrammingCourse/TPs/ParallelProgrammingTP/src/software-engineering-project/src/config/config.h
+
+/gext/rached.chaaben/ParallelProgrammingCourse/TPs/ParallelProgrammingTP/src/software-engineering-project/src/config/config.h
+cstdio
+-
+array
+-
+cmath
+-
+chrono
+-
+
